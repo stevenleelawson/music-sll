@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="SLL rocks man"/>
+  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+  <HelloWorld msg="SLL rocks, man"/>
 </template>
 
 <script>
